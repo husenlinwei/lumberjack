@@ -1,3 +1,3 @@
-module gopkg.in/natefinch/lumberjack.v2
+module gopkg.in/husenlinwei/lumberjack.v2
 
 go 1.13
